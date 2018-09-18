@@ -28,6 +28,7 @@ _`Repository administrators for organizations can enforce branch restrictions so
 
 # Limiting interactions in your repository
 _`People with owner or admin access can temporarily restrict certain users from commenting, opening issues, or creating pull requests in your public repository to enforce a period of limited activity.`_
+
 __Note: After 24 hours, users can resume normal activity in your repository.__
 * __Limit to existing users:__ Limits activity for users with accounts that are less than 24 hours old who do not have prior contributions and are not collaborators.
 * __Limit to prior contributors:__ Limits activity for users who have not previously contributed and are not collaborators.
